@@ -8,6 +8,7 @@
 - Respaldos automáticos y a pedido de la base de datos (pg_dump o JDBC).
 - Correcciones: error 500 en *Mis cotizaciones* y *Mis contratos* del portal cliente; rechazo de cotizaciones por POST con token CSRF; la página de acceso denegado acepta POST.
 - 63 pruebas automatizadas (17 nuevas del módulo de pagos).
+- Documentación: informe de avance v3.0, presentaciones del proyecto y evidencias de pagos, respaldos e importación en `docs/`.
 
 > SIGEM no procesa cobros: registra y valida los pagos hechos por los medios habituales.
 
