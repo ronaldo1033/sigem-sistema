@@ -43,3 +43,6 @@ logs/
 .vscode/
 *.iml
 .DS_Store
+
+# Respaldos locales de la base de datos
+backups/
